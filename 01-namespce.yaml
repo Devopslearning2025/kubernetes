@@ -1,0 +1,6 @@
+kind: config
+apiversion: V1 
+metadata: 
+  labels:
+    - name: expense 
+      environemtn: dev
