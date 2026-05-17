@@ -1,5 +1,5 @@
 kind: config
-apiversion: V1 
+apiversion: v1
 metadata: 
   labels:
     - name: expense 
