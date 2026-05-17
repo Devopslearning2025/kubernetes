@@ -1,6 +1,7 @@
-kind: config
-apiversion: v1
-metadata: 
+kind: Namespce
+apiVersion: v1
+metadata:
+  name: expense
   labels:
-    - name: expense 
-      environemtn: dev
+    name: expense 
+    environemtn: dev
